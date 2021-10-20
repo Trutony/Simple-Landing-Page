@@ -1,0 +1,95 @@
+body {
+    background-color: #343a40;
+    font-family: "Nunito", sans-serif;
+}
+
+h1 {
+    font-size: 2.3rem;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 2rem;
+    text-align: center;
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 20px auto;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+}
+
+#mainNavbar .nav-link:hover {
+    color: red;
+}
+
+#mainNavbar .navbar-portfolio {
+   color: white;
+}
+
+.about {
+    color: white;
+}
+
+.btn {
+    border-radius: 8%;
+    font-size: large;
+    font-weight: 700;
+    width: 180px;
+    height: 50px;
+    font: bold;
+}
+
+.btn:hover {
+color: white;
+background-color: #343a40;
+}
+
+.button {
+    color: white;
+    position: absolute;
+    font-size: 1.2em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 0 0 10px black;
+}
+
+.container-fluid {
+    position: relative;
+}
+
+.lineBreak {
+    color: red;
+    font-weight: 1;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+.navbar.scrolled {
+    background-color: #343a40;
+}
+
+.text {
+    color: white;
+    position: absolute;
+    font-size: 1.2em;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-shadow: 0 0 10px black;
+}
+
